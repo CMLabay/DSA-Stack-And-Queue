@@ -1,5 +1,3 @@
-const _Node = require('./node')
-
 // Creates a node containing the data and a reference to the next item
 class _Node {
     constructor(data, next) {
